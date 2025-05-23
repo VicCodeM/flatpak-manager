@@ -90,10 +90,10 @@ Un gestor de aplicaciones Flatpak con interfaz gráfica desarrollado en Python y
 
 ## Capturas de Pantalla
 
-![Pantalla Principal](screenshots/main_window.png)
+![Pantalla Principal](screenshots/2025-05-22_18-09.png)
 *Vista principal de la aplicación*
 
-![Configuración](screenshots/settings.png)
+![Configuración](screenshots/2025-05-22_18-10.png)
 *Panel de configuración*
 
 ## Estructura del Proyecto
