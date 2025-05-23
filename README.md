@@ -89,11 +89,11 @@ Un gestor de aplicaciones Flatpak con interfaz gráfica desarrollado en Python y
    - Configura preferencias de actualización
 
 ## Capturas de Pantalla
-##*Vista principal de la aplicación*
+*Vista principal de la aplicación*
 
 ![Pantalla Principal](screenshots/2025-05-22_18-09.png)
 
-##*Panel de configuración*
+*Panel de configuración*
 ![Configuración](screenshots/2025-05-22_18-10.png)
 
 
